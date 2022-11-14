@@ -30,3 +30,6 @@ För att få merga in ändringar från denna branch in till main så öppnar vi 
 
 lägger in något...
 
+## Merging
+
+Detta ska skapa en konflikt!!
