@@ -30,6 +30,7 @@ För att få merga in ändringar från denna branch in till main så öppnar vi 
 
 lägger in något...
 
-## Merging
+## Merge
 
-Detta ska skapa en konflikt!!
+Efter pull request är det viktigt att varje person kör en pull till sin main branch och till sin egna branch.
+
